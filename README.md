@@ -1,6 +1,6 @@
-### Hello 👋
+### About
 
-I’m an Applied Scientist at Microsoft and a member of the Shopping and E-Commerce team. My work focuses on extracting and discovering patterns in large data sets. I’ve completed my Ph.D. at the Department of Computer Science, Purdue University. During my Ph.D., I worked on creating scalable data-driven techniques for query processing over web graphs. Previously, I was a Research Engineer at IBM where I worked in the areas of Natural Language Processing, Information Extraction, and Information Retrieval.
+Amgad Madkour is a member of the Consumer Shopping & Enterprise Commerce team. He obtained his Ph.D. in computer science from Purdue University where he focused on scalable query processing over web-scale graphs. Before joining Microsoft, he was a staff R&D engineer at IBM working in the areas of Machine Learning, Natural Language Processing, and Machine Translation. At Microsoft, he focuses on challenges related to Question Answering including query intent and document understanding.
 
 ### Research Interests
 

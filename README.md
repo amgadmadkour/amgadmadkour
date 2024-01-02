@@ -8,4 +8,3 @@ I'm a Data & Applied Science Manager at Microsoft, where I lead a team of data s
 * Knowledge Graphs
 * Data Management
 * Data Integration
-* Data Cleaning

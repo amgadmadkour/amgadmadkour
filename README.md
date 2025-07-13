@@ -1,6 +1,6 @@
 ### About
 
-I lead the shopping product tracking team at Microsoft AI. I obtained my Ph.D. in computer science from Purdue University. Before joining Microsoft, I was a staff R&D engineer at IBM, working in the areas of machine learning, natural language processing, and machine translation. My current focus is to leverage artificial intelligence to create intelligent and adaptive solutions that deliver value to users.
+I'm a technical lead and manager with experience in leading end-to-end data-centric features. My experience spans academic research and industry. I obtained my Ph.D. in computer science from Purdue University. I currently lead agentic shopping and product tracking in Microsoft AI. Before joining Microsoft, I was an R&D engineer at IBM, working in the areas of machine learning, natural language processing, and machine translation. My current work focuses on building scalable data products that deliver value to users.
 
 ### Areas of Interest
 

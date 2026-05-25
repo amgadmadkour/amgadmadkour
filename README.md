@@ -1,8 +1,6 @@
 ### About
 
-I’m an engineering leader with extensive experience driving end-to-end data-centric projects. Currently, I lead agentic shopping at Microsoft AI. I hold a Ph.D. in Computer Science from Purdue University, where I specialized in Knowledge Graph Data Management. Prior to Microsoft, I served as a Research Engineer at IBM, focusing on applied research in the areas of machine learning, natural language processing, and machine translation.
-
-My work bridges the gap between cutting-edge AI research and practical applications, with a particular emphasis on leveraging AI to enhance data understanding and integration. I’m passionate about developing scalable solutions that transform how we interact with and derive insights from complex data systems.
+Engineering leader with deep expertise in AI-powered consumer experiences and enterprise-scale platforms. Specialized in agentic AI systems, LLM-powered applications, knowledge graphs, distributed systems, and data platforms, with a strong track record of delivering 0→1 products and scaling high-performing engineering and applied science teams. Proven ability to drive measurable growth, reliability, and operational efficiency across products and platforms serving millions of users and large-scale business ecosystems.
 
 ### Areas of Interest
 
